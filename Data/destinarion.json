@@ -1,0 +1,61 @@
+{
+    "Destinations": [
+        {
+            "Name": "Majorca",
+            "TravelTimeInMins": 150,
+            "DescriptionHtml": "<p>Majorca is the largest island in the Balearic Islands, which are part of Spain and located in the Mediterranean.</p><p>The capital of the island, Palma, is also the capital of the autonomous community of the Balearic Islands. The Balearic Islands have been an autonomous region of Spain since 1983.[4] The Cabrera Archipelago is administratively grouped with Majorca (in the municipality of Palma). The anthem of Majorca is 'La Balanguera'.</p>",
+            "Temperature": {
+                "January": 20,
+                "Feburary": 21,
+                "March": 22,
+                "April": 26,
+                "May": 27,
+                "June": 30,
+                "July": 29,
+                "August": 26,
+                "September": 27,
+                "October": 26,
+                "November": 24,
+                "December": 23
+            }
+        },
+        {
+            "Name": "Algrave",
+            "TravelTimeInMins": 120,
+            "DescriptionHtml": "<p>The Algarve is the southernmost region of continental Portugal. It has an area of 4,997 km2 (1,929 sq mi) with 451,006 permanent inhabitants, and incorporates 16 municipalities. The region has as its administrative centre in the city of Faro, where both the region's international airport (FAO) and public university, the University of Algarve, are located. Tourism and related activities are extensive and make up the bulk of the Algarve's summer economy. Production of food, which includes fish and other seafood, different types of fruit such as oranges, figs, plums, carob beans, and almonds, is also economically important in the region. Although Lisbon surpasses the Algarve in terms of tourism revenue, the Algarve is still, overall, considered to be the biggest and most important Portuguese tourist region, having received an estimated total of 7.1 million tourists in 2017. Its population triples in the peak holiday season due to seasonal residents. The Algarve is also increasingly being sought after, mostly by central and northern Europeans, as a permanent place to settle. An American-based study concluded that the Algarve was the world's best place to retire</p><p>The Algarve is one of the most developed regions of Portugal, and with a GDP per capita at 86% of the European Union average, the third-richest behind Lisbon and Madeira.</p>",
+            "Temperature": {
+                "January": 22,
+                "Feburary": 23,
+                "March": 24,
+                "April": 25,
+                "May": 32,
+                "June": 31,
+                "July": 30,
+                "August": 29,
+                "September": 28,
+                "October": 27,
+                "November": 27,
+                "December": 26
+            }
+        },
+        {
+            "Name": "Bali",
+            "TravelTimeInMins": 1025,
+            "DescriptionHtml": "<p is an island and province of Indonesia with the biggest Hindu population. The province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan and Nusa Ceningan. It is located at the westernmost end of the Lesser Sunda Islands, with Java to the west and Lombok to the east. Its capital, Denpasar, is located in the southern part of the island.</p><p>Bali is a popular tourist destination, which has seen a significant rise in tourists since the 1980s. Tourism-related business makes up 80% of its economy. It is renowned for its highly developed arts, including traditional and modern dance, sculpture, painting, leather, metalworking and music. The Indonesian International Film Festival is held every year in Bali. In March 2017, TripAdvisor named Bali as the world's top destination in its Traveller's Choice award.</p>",
+            "Temperature": {
+                "January": 22,
+                "Feburary": 23,
+                "March": 24,
+                "April": 25,
+                "May": 32,
+                "June": 31,
+                "July": 30,
+                "August": 30,
+                "September": 31,
+                "October": 32,
+                "November": 33,
+                "December": 33
+            }
+        }
+    ]
+}
